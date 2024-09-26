@@ -1,0 +1,10 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "serve-handler": "^6.1.5",
+    "ws": "^8.0.0"
+  }
+}
